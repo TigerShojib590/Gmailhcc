@@ -7,4 +7,5 @@ ARE WORK THIS FIR ILLEGAL so im not responsiblefor this note it...
 
 
 
-$ cd 
+
+
